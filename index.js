@@ -3,7 +3,7 @@ got = require('got'),
 cheerio = require('cheerio'),
 client = new Discord.Client(),
 settings = {
-    prefix: process.env.DISCORD_PREFIX || "+",
+    prefix: process.env.DISCORD_PREFIX || "-",
     token: process.env.DISCORD_TOKEN
 };
 
