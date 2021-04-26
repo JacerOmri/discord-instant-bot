@@ -1,0 +1,31 @@
+{
+  "name": "discord-instant-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "got": "^11.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacerOmri/discord-instant-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "instant",
+    "meme"
+  ],
+  "author": "Jacer Omri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacerOmri/discord-instant-bot/issues"
+  },
+  "homepage": "https://github.com/JacerOmri/discord-instant-bot#readme"
+}
